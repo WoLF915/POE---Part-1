@@ -1,8 +1,6 @@
 # POE---Part-1
 # Recipe App
 
-![Recipe App](https://your-image-url.com)
-
 The Recipe App is a console-based application written in C# that allows users to manage recipes efficiently. With this application, users can enter recipe details, display recipes, scale recipes, reset quantities, and clear recipes.
 
 ## Features
